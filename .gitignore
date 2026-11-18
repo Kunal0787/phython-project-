@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.tmp
+*.log
+*.spec
+build/
+dist/
+.venv/
+venv/
